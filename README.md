@@ -76,21 +76,35 @@ This work was completed independently as part of a server administration assignm
 ### Active Directory Automation
 *Created organizational units and security groups in Active Directory*
 <img width="1428" height="904" alt="image" src="https://github.com/user-attachments/assets/645e9cd3-ae0a-47cc-8786-e65a769e22e1" />
+
 *Automated user creation using PowerShell*
 <img width="1593" height="1323" alt="image" src="https://github.com/user-attachments/assets/8d295df7-76eb-4292-8853-a86ae6a46644" />
 
 ### Secure Web Services
+*Initial HTTPS connection showing certificate warning before trust configuration*
 <img width="1698" height="765" alt="2" src="https://github.com/user-attachments/assets/4e93f0d9-e585-4a36-abcb-61c1a48cd5cf" />
+
+*User authentication prompt using Active Directory credentials*
 <img width="1647" height="1080" alt="3" src="https://github.com/user-attachments/assets/3b09993c-979f-4777-9d95-0deacb7163d7" />
+
+*Successful access to secured internal website after authentication*
 <img width="1174" height="1262" alt="4" src="https://github.com/user-attachments/assets/e1e39ea0-4488-4afe-9800-019827c07b94" />
 
 ### File Sharing & Permissions
+*Access denied to restricted shared folder based on group permissions*
 <img width="1147" height="681" alt="image" src="https://github.com/user-attachments/assets/0a7982e5-b7a4-4dc0-aea3-034523259e29" />
+
+*Successful access to authorized shared folder with correct permissions*
 <img width="1176" height="702" alt="image" src="https://github.com/user-attachments/assets/39752d5c-195b-49aa-9195-1d9fcd7c4984" />
+
+*Linux Samba configuration for domain-integrated file sharing*
 <img width="922" height="859" alt="image" src="https://github.com/user-attachments/assets/a4d4eec0-efb1-44e2-bc45-c62ff0a52b0f" />
 
 ### Secure Remote Access (VPN)
+*VPN connection established with assigned internal IP address*
 <img width="1507" height="1235" alt="6" src="https://github.com/user-attachments/assets/906930e7-d4b6-46d1-8c6f-18257cef44ae" />
+
+*Accessing internal network resources through active VPN connection*
 <img width="1613" height="1194" alt="7" src="https://github.com/user-attachments/assets/2885fb1b-1d69-43ae-930d-df3ee1a08933" />
 
 ## Platform Reflection
