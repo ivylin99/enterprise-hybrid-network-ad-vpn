@@ -75,14 +75,16 @@ This work was completed independently as part of a server administration assignm
 
 ### Active Directory Automation
 <img width="1428" height="904" alt="image" src="https://github.com/user-attachments/assets/645e9cd3-ae0a-47cc-8786-e65a769e22e1" />
+<img width="1593" height="1323" alt="image" src="https://github.com/user-attachments/assets/8d295df7-76eb-4292-8853-a86ae6a46644" />
 
 ### Secure Web Services
-![HTTPS Login](screenshots/site7-login.png)
-![Public Site](screenshots/site2.png)
+<img width="1698" height="765" alt="2" src="https://github.com/user-attachments/assets/4e93f0d9-e585-4a36-abcb-61c1a48cd5cf" />
+<img width="1647" height="1080" alt="3" src="https://github.com/user-attachments/assets/3b09993c-979f-4777-9d95-0deacb7163d7" />
+<img width="1174" height="1262" alt="4" src="https://github.com/user-attachments/assets/e1e39ea0-4488-4afe-9800-019827c07b94" />
 
 ### File Sharing & Permissions
-![Windows Share](screenshots/windows-share.png)
-![Linux Samba](screenshots/linux-samba.png)
+<img width="913" height="535" alt="image" src="https://github.com/user-attachments/assets/6970a0bb-12a9-47b6-b84b-63fd6f17117c" />
+
 
 ### Secure Remote Access (VPN)
 ![VPN Connected](screenshots/vpn-connected.png)
