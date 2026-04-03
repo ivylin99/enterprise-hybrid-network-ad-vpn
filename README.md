@@ -79,7 +79,9 @@ This repository includes:
 - a short platform comparison between Windows and Linux
 
 ## Platform Reflection
-This project includes a short comparison of Microsoft and Linux platforms, with notes on their strengths, administration style, and use in a mixed environment.
+- Windows: centralized management (Active Directory, Group Policy)
+- Linux: flexible configuration and lightweight services
+- Hybrid setup: combines centralized authentication with open-source services
 
 ## Purpose
 This project is included in my portfolio to show:
