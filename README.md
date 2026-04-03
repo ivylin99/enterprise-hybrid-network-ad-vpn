@@ -83,13 +83,13 @@ This work was completed independently as part of a server administration assignm
 <img width="1174" height="1262" alt="4" src="https://github.com/user-attachments/assets/e1e39ea0-4488-4afe-9800-019827c07b94" />
 
 ### File Sharing & Permissions
-<img width="913" height="535" alt="image" src="https://github.com/user-attachments/assets/6970a0bb-12a9-47b6-b84b-63fd6f17117c" />
-
+<img width="1147" height="681" alt="image" src="https://github.com/user-attachments/assets/0a7982e5-b7a4-4dc0-aea3-034523259e29" />
+<img width="1176" height="702" alt="image" src="https://github.com/user-attachments/assets/39752d5c-195b-49aa-9195-1d9fcd7c4984" />
+<img width="922" height="859" alt="image" src="https://github.com/user-attachments/assets/a4d4eec0-efb1-44e2-bc45-c62ff0a52b0f" />
 
 ### Secure Remote Access (VPN)
-![VPN Connected](screenshots/vpn-connected.png)
-![Internal Access via VPN](screenshots/vpn-internal-access.png)
-
+<img width="1507" height="1235" alt="6" src="https://github.com/user-attachments/assets/906930e7-d4b6-46d1-8c6f-18257cef44ae" />
+<img width="1613" height="1194" alt="7" src="https://github.com/user-attachments/assets/2885fb1b-1d69-43ae-930d-df3ee1a08933" />
 
 ## Platform Reflection
 - Windows: centralized management (Active Directory, Group Policy)
