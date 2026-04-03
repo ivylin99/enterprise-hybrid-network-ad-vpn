@@ -74,7 +74,9 @@ This work was completed independently as part of a server administration assignm
 ## Validation Screenshots
 
 ### Active Directory Automation
+*Created organizational units and security groups in Active Directory*
 <img width="1428" height="904" alt="image" src="https://github.com/user-attachments/assets/645e9cd3-ae0a-47cc-8786-e65a769e22e1" />
+*Automated user creation using PowerShell*
 <img width="1593" height="1323" alt="image" src="https://github.com/user-attachments/assets/8d295df7-76eb-4292-8853-a86ae6a46644" />
 
 ### Secure Web Services
