@@ -71,12 +71,23 @@ This work was completed independently as part of a server administration assignm
 - VPN and RADIUS authentication
 - TCP/IP, NAT, DHCP failover
 
-## Documentation
-This repository includes:
-- configuration notes
-- validation screenshots
-- service and permission testing
-- a short platform comparison between Windows and Linux
+## Validation Screenshots
+
+### Active Directory Automation
+<img width="1428" height="904" alt="image" src="https://github.com/user-attachments/assets/645e9cd3-ae0a-47cc-8786-e65a769e22e1" />
+
+### Secure Web Services
+![HTTPS Login](screenshots/site7-login.png)
+![Public Site](screenshots/site2.png)
+
+### File Sharing & Permissions
+![Windows Share](screenshots/windows-share.png)
+![Linux Samba](screenshots/linux-samba.png)
+
+### Secure Remote Access (VPN)
+![VPN Connected](screenshots/vpn-connected.png)
+![Internal Access via VPN](screenshots/vpn-internal-access.png)
+
 
 ## Platform Reflection
 - Windows: centralized management (Active Directory, Group Policy)
@@ -88,7 +99,3 @@ This project is included in my portfolio to show:
 - hands-on network and server administration
 - Windows and Linux integration
 - secure configuration and access control
-
-## Author
-**Ivy Lin**  
-IT Student | Networking and Systems
