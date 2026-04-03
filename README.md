@@ -9,6 +9,8 @@ The project simulates a small business environment with Active Directory, secure
 
 This work was completed independently as part of a server administration assignment and is presented here as a portfolio project.
 
+<img width="1473" height="841" alt="1" src="https://github.com/user-attachments/assets/d80afe23-1fdc-4f6f-8502-c9277cd0ed20" />
+
 ## Architecture & Key Components
 
 ### Active Directory Domain
