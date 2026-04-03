@@ -10,9 +10,7 @@ The project simulates a small business environment with Active Directory, secure
 This work was completed independently as part of a server administration assignment and is presented here as a portfolio project.
 
 ## Network Topology
-<p align="center">
-  <img src="documentation/topology.png" width="800"/>
-</p>
+<img width="1473" height="841" alt="1" src="https://github.com/user-attachments/assets/c0a59bbb-167b-4d5b-bcdc-8aed3938f7cb" />
 
 ## Architecture & Key Components
 
